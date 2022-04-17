@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-17T15:35:54Z" name="Default suite" finished-at="2022-04-17T15:35:57Z" duration-ms="2571">
+    <groups>
+    </groups>
+    <test started-at="2022-04-17T15:35:54Z" name="Default test" finished-at="2022-04-17T15:35:57Z" duration-ms="2571">
+      <class name="facebook.com.Fb_Forgotton_Password_Test">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:facebook.com.Fb_Forgotton_Password_Test@b9b00e0]" started-at="2022-04-17T21:05:54Z" name="beforeClass" finished-at="2022-04-17T21:05:56Z" duration-ms="1515" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="forgottenpassTest()[pri:0, instance:facebook.com.Fb_Forgotton_Password_Test@b9b00e0]" started-at="2022-04-17T21:05:56Z" name="forgottenpassTest" finished-at="2022-04-17T21:05:57Z" duration-ms="1048" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgottenpassTest -->
+      </class> <!-- facebook.com.Fb_Forgotton_Password_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
